@@ -5,8 +5,9 @@
    "author":"Iori",
    "cover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx100319-y4iw7wyYoojv.jpg",
    "chapters":{
-      "1":{
-         "title":"Chapter 1",
+      "22":{
+         "title":"Chapter 22",
+         "volume": "4",
          "groups":{
             "Kanojo Scans":"/proxy/api/imgur/chapter/RzO64To/"
          },
